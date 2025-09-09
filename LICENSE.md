@@ -9,7 +9,7 @@ Everyone is permitted to copy and distribute verbatim copies of this license doc
 # Open & Clear Attribution License (OCAL)
 
 **Project Copyright Notice:**
-Copyright (c) [Year] [Project Owner Name or Organization]
+Copyright (c) 2025 Milan Tent
 
 ## Permission
 
