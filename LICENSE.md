@@ -1,12 +1,12 @@
-Version: `OCAL v0.4-draft`
+Version: `CARL v0.6-draft`
 
 *Copyright (c) 2025 Tiltshift Games*
 
-Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+You may copy and share this license document freely, but you may not alter it.
 
 ---
 
-# Open & Clear Attribution License (OCAL)
+# Clear Attribution & Reuse License (CARL)
 
 **Project Copyright Notice:**
 
@@ -16,13 +16,17 @@ Everyone is permitted to copy and distribute verbatim copies of this license doc
 
 You may use, copy, modify, merge, publish, distribute, and sublicense this project, and create products or services derived from it — for private, public, or commercial purposes — **but you may not relicense it under different terms.**
 
-## Condition
+## Conditions
 
-You **must include**:
-- **This license text**, and
-- **The original copyright notice**
+When you distribute this project (original or modified), you must:
+- include this License **and** the original copyright notice;
+- include the notice with any source code you distribute; and
+- if you distribute the project **only in compiled form** (like an executable or library) or **as part of another product**, you must show the notice to end users — for example, in an About screen, a legal page, or an open-source notices section. If the product has no user interface, include the notice in accompanying documentation that users can access.
 
-in the source code **and** in a place visible to end users, such as an About screen, open-source notice, legal page, or, if the product has no user interface, in accompanying documentation that is readily accessible.
+### Clarifications:
+- You **don’t need to provide the source code** when sharing only compiled versions.
+- If you **do share source code**, it must include this License and the notice.
+- You may apply **different terms to your overall product**, but this project’s code — including any changes you make to it — **must always remain under this License**.
 
 ## Contributors & Patents
 
