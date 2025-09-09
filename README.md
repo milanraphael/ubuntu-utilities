@@ -8,7 +8,7 @@ The repository will grow over time with new features. Each folder has its own in
 
 ### License
 
-This project is licensed under the GNU GPL v3.0. You’re free to use, modify, and distribute the code, but any derivative work must also be released under the same license, ensuring it stays open and free for everyone.
+This project is licensed under CARL v0.6. You’re free to use, modify, and share it — even commercially — as long as you keep the original notice and license with the code.
 
 ### Author
 By Milan Tent
